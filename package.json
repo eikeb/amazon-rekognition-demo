@@ -1,0 +1,16 @@
+{
+  "name": "amazon-rekognition-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eike Bergmann <eike.bergmann@linktwo.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-rekognition": "^3.574.0"
+  }
+}
